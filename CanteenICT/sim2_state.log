@@ -1,0 +1,323 @@
+======================= T:0=======================
+[Waiting-to-Enter Queue]: D2
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+@D2-1 queues up at Bamboo Shop, and waiting to order.
+======================= T:1=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+@D2-2 orders from Bamboo Shop, and will need to wait for 9 periods to cook.
+======================= T:2=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:3=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:4=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:5=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:6=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:7=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:8=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:9=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:10=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:11=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+@D2-3 pays at Bamboo Shop using MOBILE payment which requires 3 period(s) to process payment.
+======================= T:12=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+======================= T:13=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: D2
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: 
+
+@D2-4 retrieves food from Bamboo Shop, and goes to Waiting-to-Seat Queue.
+======================= T:14=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: D2
+[Table 2]: 
+[Done Queue]: 
+
+@D2-5 sits at Table 1.
+======================= T:15=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+@D2-6 eats at the table, and will need 28 periods to eat his/her meal.
+======================= T:16=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:17=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:18=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:19=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:20=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:21=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:22=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:23=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:24=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:25=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:26=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:27=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:28=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:29=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:30=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:31=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:32=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:33=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:34=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:35=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:36=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:37=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:38=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:39=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:40=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:41=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:42=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+======================= T:43=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: D2
+[Done Queue]: 
+
+@D2-7 is done eating.
+======================= T:44=======================
+[Waiting-to-Enter Queue]: 
+[Food Stall: Bamboo Shop]: 
+[Waiting-to-Seat Queue]: 
+[Table 2]: 
+[Done Queue]: D2
+
+@@ Simulation Done. Great Job!!
